@@ -1,0 +1,9 @@
+HOW TO USE:
+
+export DFTB_COMMAND='srun -n 1 /mnt/irisgpfs/projects/tcp/software/bin/dftb-plus.vdW20190326.x'
+export DFTB_PREFIX='/scratch/users/lmedrano/dftb/SKfiles/3ob-3-1/'
+
+python3 DFTB-NNrep.py idir odir
+
+idir: directory with input molecular files (XYZ format)
+odir: output directory to write results per each molecule
