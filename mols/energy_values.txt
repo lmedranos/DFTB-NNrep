@@ -1,0 +1,9 @@
+Mol 1:
+
+DFTB electronic energy: -497.19467 eV
+NN repulsive energy: -6.932846 eV
+
+Mol 2:
+
+DFTB electronic energy: -498.1924539 eV
+NN repulsive energy: -5.600243 eV
